@@ -49,7 +49,7 @@ The software is divided into different modules:
 * **RULA**: Performs posture assessment and stores scores for each frame.
 * **ROS Communication**: Manages communication with CoppeliaSim, defining topics, message types, and publishing functions.
 
-<p align="center"> <img src="software_overview.png" alt="Software Overview" width="600"/> </p>
+<p align="center"> <img src="media/software_overview.png" alt="Software Overview" width="600"/> </p>
 
 ---
 
@@ -101,8 +101,9 @@ This mapping allows the software to automatically extract the ergonomic evaluati
 * Motion data and RULA evaluations are visualized in **CoppeliaSim** using a human avatar.
 * Frame-by-frame posture evaluations are shown with a **color-coded system**.
 
-<p align="center"> <img src="avatar.png" alt="Software Overview" width="600"/> </p>
-https://youtu.be/7bvG_mL56Jw
-[! Video Demonstration](https://youtu.be/7bvG_mL56Jw/hqdefault.jpg)](https://youtu.be/7bvG_mL56Jw)
+<p align="center"> <img src="media/avatar.png" alt="Software Overview" width="600"/> </p>
+
+Video Demonstration: https://youtu.be/7bvG_mL56Jw
+
 ---
 
