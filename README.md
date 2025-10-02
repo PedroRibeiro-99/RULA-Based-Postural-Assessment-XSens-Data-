@@ -102,6 +102,7 @@ This mapping allows the software to automatically extract the ergonomic evaluati
 * Frame-by-frame posture evaluations are shown with a **color-coded system**.
 
 <p align="center"> <img src="avatar.png" alt="Software Overview" width="600"/> </p>
-
+https://youtu.be/7bvG_mL56Jw
+[! Video Demonstration](https://youtu.be/7bvG_mL56Jw/hqdefault.jpg)](https://youtu.be/7bvG_mL56Jw)
 ---
 
